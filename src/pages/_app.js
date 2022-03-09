@@ -173,3 +173,4 @@ MyApp.getInitialProps = async (context) => {
     settings,
   };
 };
+console.log('📪');
